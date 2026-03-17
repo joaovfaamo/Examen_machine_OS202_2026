@@ -1,5 +1,9 @@
 # Rapport d'examen — Parallélisation d'une simulation de galaxie
 
+**Nom :** Ferro Amorosini  **Prénom :** João Victor
+**Date :** 17 Mars 2026  
+**OS / Machine :** Ubuntu 24.04.4 LTS | Alienware 16 Aurora AC16250  
+
 ## 1. Contexte et objectifs
 
 L'objectif est d'accélérer une simulation gravitationnelle de galaxie en plusieurs étapes :
